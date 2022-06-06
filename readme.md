@@ -1,0 +1,2 @@
+# CrossSim Models
+This repository contains pre-trained Keras model files for [CrossSim](https://github.com/sandialabs/cross-sim). This is not a self-executing repository. Please see the main [CrossSim repository](https://github.com/sandialabs/cross-sim) for more information about the tool.
